@@ -1,0 +1,4 @@
+timestamp,symbol,action,leverage,sentiment,reward
+2025-04-22 10:00:00,BTC-USD,Buy,2,0.6,0.15
+2025-04-22 10:00:00,ETH-USD,Sell,1,-0.2,-0.10
+2025-04-22 10:00:00,SOL-USD,Hold,3,0.1,0.00
