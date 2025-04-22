@@ -1,4 +1,4 @@
-# dashboard_viewer.py – Web-Dashboard mit Streamlit
+# app.py – Web-Dashboard mit Streamlit
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
