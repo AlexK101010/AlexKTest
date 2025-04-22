@@ -45,8 +45,7 @@ df = simulate_data()
 df = apply_strategies(df)
 log_data(df)
 
-print("Log updated with strategies:", df.tail(1)[['symbol', 'fibonacci_signal', 'rsi_signal', 'ma200_trend']].to_dict(orient='records')[0])trade['fibonacci_signal'] = 'Buy'
-trade['rsi_signal'] = 'Neutral'
-trade['ma200_trend'] = 'Bullish'
+print("Log updated with strategies:", df.tail(1)[['symbol', 'fibonacci_signal', 'rsi_signal', 'ma200_trend']].to_dict(orient='records')[0]
+
 
 
