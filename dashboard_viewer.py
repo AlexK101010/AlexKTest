@@ -1,1 +1,1 @@
-delete dashboard viewer
+Remove altes Dashboard
