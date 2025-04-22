@@ -10,3 +10,4 @@ gym
 schedule
 python-dotenv
 streamlit
+seaborn
