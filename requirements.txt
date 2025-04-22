@@ -1,0 +1,11 @@
+ccxt
+requests
+pandas
+numpy
+matplotlib
+transformers
+yfinance
+stable-baselines3
+gym
+schedule
+python-dotenv
